@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "qufiwefefwoyn.inline-sql-syntax",
+    "mikestead.dotenv",
+    "esbenp.prettier-vscode",
+    "bradlc.vscode-tailwindcss",
+    "netcorext.uuid-generator",
+    "octref.vetur",
+    "bungcip.better-toml",
+    "rust-lang.rust-analyzer"
+  ]
+}

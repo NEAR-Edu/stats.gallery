@@ -1,0 +1,1 @@
+alter table account_badge drop constraint fk__account_badge__account;
